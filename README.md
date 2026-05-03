@@ -8,7 +8,7 @@ This is the network topology design that I made
 ## 📌 Project Overview
 Project ini adalah simulasi infrastruktur jaringan berskala enterprise yang menghubungkan empat kantor cabang: **Jakarta, Bandung, Tegal, dan Bali**. Simulasi ini dirancang menggunakan Cisco Packet Tracer dan mendemonstrasikan implementasi *routing* antar wilayah serta pengamanan jaringan menggunakan *Access Control List* (ACL).
 
-**Main Project File:** `simulasi_jaringan_MAN.pkt`
+**Main Project File:** `simulasi_jaringan_multi-branch.pkt`
 
 ## ⚙️ Key Technologies & Protocols
 *   **Topology Design:** Hierarchical/Multi-branch network design.
@@ -28,5 +28,5 @@ Project ini adalah simulasi infrastruktur jaringan berskala enterprise yang meng
  ┃ ┣ 🖼️ konfigurasi_routing_pada_router_bandung.jpg
  ┃ ┣ 🖼️ konfigurasi_routing_pada_router_jakarta.jpg
  ┃ ┗ 🖼️ konfigurasi_routing_pada_router_tegal.jpg
- ┣ 📜 simulasi_jaringan_MAN.pkt # File utama Cisco Packet Tracer
+ ┣ 📜 simulasi_jaringan_multi-branch.pkt      # File utama Cisco Packet Tracer
  ┗ 📜 README.md
