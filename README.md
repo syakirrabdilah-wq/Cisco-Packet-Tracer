@@ -19,7 +19,7 @@ Project ini adalah simulasi infrastruktur jaringan berskala enterprise yang meng
 ## 🗂️ Repository Structure
 ```text
 📦 multi-branch-network
- ┣ 📂 configs                 
+ ┣ 📂 configs                 # Ekspor konfigurasi CLI dari setiap router
  ┃ ┣ 📜 router_jakarta.cfg
  ┃ ┣ 📜 router_bandung.cfg
  ┃ ┣ 📜 router_tegal.cfg
